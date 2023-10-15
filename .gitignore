@@ -1,0 +1,57 @@
+# Ignore les fichiers js compilés 
+
+node_modules/ 
+
+  
+
+# Ignore fichier npm's lock 
+
+package-lock.json 
+
+  
+
+# Ignore fichier yarn's lock 
+
+yarn.lock 
+
+  
+
+# Ignore fichier log 
+
+*.log 
+
+  
+
+# Ignore fichier IDE/Editor 
+
+.idea/ 
+
+  
+
+# Ignore fichier de configuration spécifique
+
+.env 
+
+  
+
+# Ignore fichier construction et repertoire de sortie
+
+/build/ 
+
+/dist/ 
+
+/out/ 
+
+  
+
+# Ignore fichiers compilés JavaScript  
+
+*.js 
+
+  
+
+# Ignore fichiers caches et temporaires 
+
+.cache/ 
+
+.tmp/ 
