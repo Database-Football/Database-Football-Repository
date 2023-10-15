@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ***Votre demande de fonctionnalité est-elle liée à un problème ? Veuillez décrire.***
 Une description claire et concise de quel est le problème. Par exemple, je suis toujours frustré lorsque...
 
@@ -26,3 +27,10 @@ A clear and concise description of any alternative solutions or features you've 
 **Additional context**
 Add any other context or screenshots about the feature request here.
 >>>>>>> 2d8294f (Update issue templates)
+=======
+***Votre demande de fonctionnalité est-elle liée à un problème ? Veuillez décrire.***
+Une description claire et concise de quel est le problème. Par exemple, je suis toujours frustré lorsque...
+
+***Décrivez la solution que vous aimeriez***
+Une description claire et concise de ce que vous souhaitez qu'il se produise.
+>>>>>>> 6d46ba1 (Update issue templates)

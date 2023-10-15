@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ***Description du bug***
 Une description claire et concise de ce qu'est le bug.
 
@@ -19,14 +20,15 @@ Le cas échéant, ajoutez des captures d'écran pour expliquer votre problème.
 =======
 **Describe the bug**
 A clear and concise description of what the bug is.
+=======
+***Description du bug***
+Une description claire et concise de ce qu'est le bug.
+>>>>>>> 6d46ba1 (Update issue templates)
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+***Comportement attendu***
+Une description claire et concise de ce que vous attendiez qu'il se produise.
 
+<<<<<<< HEAD
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
@@ -47,3 +49,7 @@ If applicable, add screenshots to help explain your problem.
 **Additional context**
 Add any other context about the problem here.
 >>>>>>> 2d8294f (Update issue templates)
+=======
+***Captures d'écran***
+Le cas échéant, ajoutez des captures d'écran pour expliquer votre problème.
+>>>>>>> 6d46ba1 (Update issue templates)
