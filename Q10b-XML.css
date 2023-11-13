@@ -25,3 +25,45 @@ header {
     align-items: center;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
+
+h1 {
+    font-size: 28px;
+    color:#333;
+    margin-right: 20px;
+    text-align: center;
+    margin-top: 5vh;
+}
+
+nav a {
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    color: #666;
+    transition: color 0.3s;
+    transition: all 0.3s ease-in-out;
+}
+
+nav a:hover {
+    color: #000;
+}
+
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.5;
+}
