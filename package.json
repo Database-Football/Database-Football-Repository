@@ -1,3 +1,19 @@
-"scripts" : {
-    "lint" : "eslint ."
+{
+	"name": "football database",
+	"version": "1.0.0",
+	"description": "une page web",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Pas d'erreur\" && exit 1",
+		"lint": "eslint ./*.js"
+	},
+	"keywords": [],
+	"author": "Daniela",
+	"licence": "ISC",
+	"devDependecies": {
+		"eslint": "^7.0.0"
+	},
+	"devDependencies": {
+		"eslint": "^8.53.0"
+	}
 }
