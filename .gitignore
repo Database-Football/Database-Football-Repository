@@ -1,9 +1,3 @@
-# Ignore les fichiers js compilés 
-
-node_modules/ 
-
-  
-
 # Ignore fichier npm's lock 
 
 package-lock.json 
