@@ -35,13 +35,6 @@ yarn.lock
 /dist/ 
 
 /out/ 
-
-  
-
-# Ignore fichiers compilés JavaScript  
-
-*.js 
-
   
 
 # Ignore fichiers caches et temporaires 
